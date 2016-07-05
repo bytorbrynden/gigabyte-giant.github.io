@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gigabytegiant
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gigabyte-giant.github.io
+  * I am gigabytegiant (https://keybase.io/gigabytegiant) on keybase.
+  * I have a public key with fingerprint 0B33 284A 2843 5149 0497  CAA6 9FC8 2EB6 B679 C12C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e77a76eabb11ddaa985fbc2b57abc55050606699e4613f41f6a749f587fa2aef0a",
+            "fingerprint": "0b33284a284351490497caa69fc82eb6b679c12c",
+            "host": "keybase.io",
+            "key_id": "9fc82eb6b679c12c",
+            "kid": "0101e77a76eabb11ddaa985fbc2b57abc55050606699e4613f41f6a749f587fa2aef0a",
+            "uid": "dda21e603d2141cab058563c61408619",
+            "username": "gigabytegiant"
+        },
+        "revoke": {
+            "sig_ids": [
+                "2289f7177db938931ea01005657a91fd4a04f71f1fe35789d4f18570da5314170f"
+            ]
+        },
+        "service": {
+            "hostname": "gigabyte-giant.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466695166,
+    "expire_in": 157680000,
+    "prev": "0a10582efbe257177ff0ddb4b0921a932fcd8e47b65948f262b281a5c28e7fb8",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJ2AnicrZJtaBRHGMfvWpO2QVtpMBWxoIOGSuM5M7szs3OWQhVKaf1QDb4QW64z
+uzN3y8Xby97emVSCaErBD8bDihQKNYmC+FLiG4jVFutLCybaYnyBgBIUm1DbL0qD
+FBVnT/tF+rELw7I7/+f//J7/zLlpLyYakm8c2tX/+sCMPcmhM1PKidX5R483ABl4
+XSC9AeRV7aXaPVWKMnnfA2kAEUSKMcGoElIi5HlCcIdo6WJJmJAuIZBACinlXNkU
+WdpGmgpmc00cpgUWSkMBWoD2C1kVFkO/EMW20rKwYwuzLIJsDm3OXCEo166DlaSS
+Mu4i7JrCXFCKKwycFCWV8gPzz3xkanj/of+fucs1O1OOkaLQ8jCykSskJA6hlkuR
+DR2KeCwsqbAg1imjzvpZIbsilfWFmba7BYSqEuRVHG7JzxryEkivBRg7XDPEmCe5
+5XALKWGoIaGGjyPt2QLaZl8jrSzCHO7ZGjmEQU8Qy0AwqMGnxtu0rfhuzTyO6jmE
+hTWGVNaPcmX5NLxiGESBG7QbVS6KiqV0TBh1FeOy9UpmnhlmpF/wzKGZiooKS35Q
+AGlklG7kxx2QTU12BFHaAlRn0Q9Vxo8VhFEHmifuoyrxSQhkwsJKS4VJPK7W0POk
+LSHHSHALa9dzlM0kJdx2NKZYYgcJ4mJHMS0dEI/YUQhAmhtMkTWWJsSCiMqhAt1n
+Tn8yJZFsSNTXvRBf5kTDK9P/veLtv7ycOLIkP3PJgoPd1XPlv+pu7yqOje0e70lt
+G5RzOo+PLNv+bQ/4PrAmfzhwcfbGt1v39kaTIbp4oX+gOrzju9/mvza6svWnaOKL
+jztv1vctlCl8Yum7i1aQZR1Dm1LjR1sbR1PB1oE3m85Wz96dCHb+Ogs05R7PK0yd
+9kHjV5eaN/df+PH9P873rd/UO6zf67Putdc3NYy3JfeMBpfb/OYPyd3qyOCpj0Yf
+XL5WbEleWbtv/zc9PUNt5xvx1sUzH6y8MTL70f3ff87NDU6uutExfMD7EoR8cHD6
+mlebHh671Te5tLfy2Tur/rlzOpzYsvzh1Ymxw1u2z7te99LXf85o/nxOdeeKt/5e
+d+3Kjid0CWWq
+=9Vz1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gigabytegiant
+
+==================================================================
