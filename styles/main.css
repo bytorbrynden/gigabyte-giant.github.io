@@ -1,0 +1,20 @@
+* {
+    font-family: monospace;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.message {
+    width: 25%;
+    text-align: justify;
+}
+
+.message .heading {
+    font-size: 1.2em;
+}
+
+.message .signature {
+    font-size: 1.2em;
+}
