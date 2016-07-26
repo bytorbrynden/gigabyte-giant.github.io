@@ -1,0 +1,30 @@
+.heading {
+    padding: 10px;
+    /*margin: 10px;*/
+    
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.heading .heading-image {
+    margin: 0 auto;
+    border: 5px solid #424242;
+}
+
+.heading .heading-title {
+    text-align: center;
+}
+
+.heading .heading-subtitle {
+    opacity: 0.4;
+    text-align: center;
+    font-style: italic;
+}
+
+.heading .heading-charms {
+    text-align: center;
+}
+
+.heading .heading-charms a {
+    padding: 5px;
+    color: #212121;
+}

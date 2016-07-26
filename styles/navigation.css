@@ -1,0 +1,37 @@
+/* Mobile */
+@media only screen and (max-width: 768px) {
+    /* TODO: Don't just hide the navbar, make a mobile-friendly version */
+    nav.navigation-bar {
+        display: none;
+    }
+}
+
+/* Desktop */
+@media only screen and (min-width: 768px) {
+    nav.navigation-bar {
+        color: #FAFAFA;
+        background-color: #212121;
+    }
+    
+    nav.navigation-bar .navigation-items {
+        margin: 0;
+        list-style: none;
+        text-align: center;
+    }
+    
+    nav.navigation-bar .navigation-items .navigation-item {
+        display: inline-block;
+        height: inherit;
+        padding: 15px;
+    }
+    
+    nav.navigation-bar .navigation-items .navigation-item:hover {
+        cursor: pointer;
+        background-color: #424242;
+    }
+    
+    nav.navigation-bar .navigation-items .navigation-item a {
+        color: inherit;
+        text-decoration: none;
+    }
+}
