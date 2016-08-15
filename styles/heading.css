@@ -1,8 +1,9 @@
 .heading {
     padding: 10px;
-    /*margin: 10px;*/
     
     border-bottom: 1px solid #E0E0E0;
+    
+    text-align: center;
 }
 
 .heading .heading-image {
@@ -10,22 +11,17 @@
     border: 5px solid #424242;
 }
 
-.heading .heading-title {
-    text-align: center;
-}
+.heading .heading-title { }
 
 .heading .heading-subtitle {
     opacity: 0.4;
-    text-align: center;
     font-style: italic;
 }
 
-.heading .heading-charms {
-    text-align: center;
-}
+.heading .heading-charms { }
 
 .heading .heading-charms a {
-    padding: 5px;
+    padding: 10px;
     color: #212121;
 }
 

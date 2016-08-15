@@ -1,0 +1,24 @@
+#about {
+    text-align: justify;
+}
+
+#projects .project {
+    margin: 0 auto;
+}
+
+#projects .project .description {
+    text-align: justify;
+}
+
+#projects .project ul.links {
+    list-style-type: none;
+    padding: 0;
+}
+
+#projects .project ul.links li.link {
+    display: inline;
+}
+
+#projects .project ul.links li.link a {
+    text-decoration: none;
+}
